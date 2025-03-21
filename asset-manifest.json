@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hackathon-portXfolio/static/css/main.9e96809b.css",
+    "main.js": "/hackathon-portXfolio/static/js/main.cf983b31.js",
+    "index.html": "/hackathon-portXfolio/index.html",
+    "main.9e96809b.css.map": "/hackathon-portXfolio/static/css/main.9e96809b.css.map",
+    "main.cf983b31.js.map": "/hackathon-portXfolio/static/js/main.cf983b31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e96809b.css",
+    "static/js/main.cf983b31.js"
+  ]
+}
